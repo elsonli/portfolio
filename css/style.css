@@ -7881,7 +7881,7 @@ header {
 @media (max-width: 767.98px) {
   .about-section .author-img {
     display: block;
-    height: 400px; } }
+    height: 700px; } }
 
 .wrap {
   padding: 0; }
@@ -7899,6 +7899,7 @@ header {
     bottom: 0;
     font-weight: 700 !important;
     color: rgba(255, 255, 255, 0.08);
+    z-index: -1;
     text-transform: uppercase; }
     @media (min-width: 992px) {
       .wrap .about-desc .bold-text {
